@@ -1,0 +1,9 @@
+Take Wire connect 
+3V to VCC of senser
+G to Gnd 
+Echo to D2 
+Trig D4
+(to the sensor)
+D1 to Led positive
+G to negative of led 
+And also download NewPing  Libaries from IDE 
